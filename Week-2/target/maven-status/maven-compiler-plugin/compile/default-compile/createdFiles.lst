@@ -1,0 +1,8 @@
+com\epam\student\mainevents\MainClass.class
+com\epam\student\service\SortStudentsByFirstName.class
+com\epam\student\bean\Student.class
+com\epam\student\service\SortStudentsByLastName.class
+com\epam\student\service\SortStudentsByIdNumber.class
+com\epam\student\mainevents\ReadStudentsFromFile.class
+com\epam\student\service\SearchStudent.class
+com\epam\student\service\SortStudentsByJoiningYear.class
